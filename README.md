@@ -1,2 +1,0 @@
-# Daniel
-Code for Daniel
