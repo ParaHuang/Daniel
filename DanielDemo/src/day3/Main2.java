@@ -2,7 +2,7 @@ package day3;
 
 import java.util.Random;
 
-public class Main3 {
+public class Main2 {
 
 	public static void main(String[] args) {
 		//generate a random number from 1-15,print different content based on the value
