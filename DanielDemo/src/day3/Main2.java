@@ -18,7 +18,7 @@ public class Main2 {
 		//15->you got a Joker
 		Random random = new Random();
 //		int poker = random.nextInt(1,14);
-		int poker = 1;
+		int poker = 15;
 		
 		switch (poker) {
 		case 1:
@@ -37,8 +37,7 @@ public class Main2 {
 		case 13:
 			System.out.println("you got a diamond K");
 			break;
-		case 14:
-		case 15:
+		case 14,15:
 			System.out.println("you got Joker");
 			break;
 			
